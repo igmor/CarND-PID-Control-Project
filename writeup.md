@@ -1,13 +1,4 @@
 ---
-
-**PID controller**
-
-[//]: # (Image References)
-
-[video1]: ./output.mov "Video"
-
----
-
 ### Writeup / README
 
 
