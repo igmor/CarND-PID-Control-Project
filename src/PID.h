@@ -18,6 +18,17 @@ public:
   double Kd;
 
   /*
+   * Total error
+   */ 
+  double total_error;
+
+  /*
+   * Previous CTE error
+   */ 
+  double cte_prev;
+
+  bool initialized;
+  /*
   * Constructor
   */
   PID();
